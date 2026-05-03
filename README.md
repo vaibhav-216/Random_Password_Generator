@@ -20,8 +20,6 @@ CSS – Styling and layout
 JavaScript – Logic and functionality
 📸 Preview
 
-(Add a screenshot of your project here)
-
 ⚙️ How It Works
 Select your desired password length
 Choose character types (uppercase, lowercase, numbers, symbols)
